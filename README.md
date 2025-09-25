@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack(Java)**
 
-- 👨‍💻 All of my projects are available at [My Github](https://github.com/Yogita-darekar)
+- 👨‍💻 All of my projects are available at [My Github](https://www.linkedin.com/in/yogita-darekar-846808282)
 
 - 💬 **Ask me about:** Building scalable web apps with Java, Spring Boot, and modern front-end frameworks
 
