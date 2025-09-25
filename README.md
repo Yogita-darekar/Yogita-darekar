@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **darekaryogita123@gmail.com**
   
-- 📄 **Know about my experiences:** [LinkedIn](https://www.linkedin.com/in/vaishnavisakole)
+- 📄 **Know about my experiences:** [LinkedIn](https://www.linkedin.com/in/yogita-darekar)
 
 
 <h3 align="left">Connect with me:</h3>
