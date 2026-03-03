@@ -68,8 +68,8 @@ More projects available on my GitHub repositories 👇
 ## 📫 Connect With Me
 
 📧 Email: darekaryogita123@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/yogita-darekar-846808282
-💻 GitHub: https://github.com/Yogita-darekar  
+💼 LinkedIn: Yogita Darekar (https://www.linkedin.com/in/yogita-darekar-846808282)
+💻 GitHub: Yogita Darekar (https://github.com/Yogita-darekar)
 
 ---
 
