@@ -61,15 +61,15 @@ Implemented REST APIs, JWT Authentication, and Role-Based Authorization.
 
 More projects available on my GitHub repositories 👇  
 
-👉 **Explore Here:** https://github.com/yourusername  
+👉 **Explore Here:** https://github.com/Yogita-darekar 
 
 ---
 
 ## 📫 Connect With Me
 
 📧 Email: darekaryogita123@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/yourprofile  
-💻 GitHub: https://github.com/yourusername  
+💼 LinkedIn: https://www.linkedin.com/in/yogita-darekar-846808282
+💻 GitHub: https://github.com/Yogita-darekar  
 
 ---
 
